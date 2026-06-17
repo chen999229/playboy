@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #app {
+  width: 100%;
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-size: 14px;
+  color: #333;
+  background: #f5f7fa;
+}
+
+.el-message-box__header {
+  padding: 15px 20px;
+}
+
+.el-message-box__title {
+  font-size: 16px;
+}
+
+.el-message-box__content {
+  padding: 20px;
+}
+
+.el-table {
+  font-size: 14px;
+}
+
+.el-table th {
+  background: #f5f7fa;
+}
+
+.el-button {
+  padding: 8px 16px;
+}
+
+.el-form-item {
+  margin-bottom: 20px;
+}
+
+.el-select, .el-input {
+  width: 100%;
+}
+
+.el-dialog__body {
+  padding: 20px;
+}
+
+.el-dialog__footer {
+  padding: 15px 20px;
+}
